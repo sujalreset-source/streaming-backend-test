@@ -12,7 +12,6 @@ import YAML from "yamljs";
 import swaggerUi from "swagger-ui-express";
 import path from "path";
 import { fileURLToPath } from "url";
-import bodyParser from "body-parser";
 
 // Routes
 import userRoutes from "./routes/userRoutes.js";
